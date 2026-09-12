@@ -1,0 +1,1330 @@
+@prefix ex: <https://w3id.org/uvsafe/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix res: <https://w3id.org/uvsafe/resource/city/> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+res:001272 a schema1:City,
+        ex:City ;
+    rdfs:label "Torino"@it ;
+    schema1:latitude 45.079166666 ;
+    schema1:longitude 7.676111111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q495> ;
+    ex:greenDensity 18.3 ;
+    ex:istatCode "001272"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.6 ;
+    ex:uvMax 8.05 .
+
+res:002158 a schema1:City,
+        ex:City ;
+    rdfs:label "Vercelli"@it ;
+    schema1:latitude 45.32615 ;
+    schema1:longitude 8.42341 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5990> ;
+    ex:greenDensity 1.8 ;
+    ex:istatCode "002158"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.2 ;
+    ex:uvMax 7.75 .
+
+res:003106 a schema1:City,
+        ex:City ;
+    rdfs:label "Novara"@it ;
+    schema1:latitude 45.45 ;
+    schema1:longitude 8.62 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6046> ;
+    ex:greenDensity 1.7 ;
+    ex:istatCode "003106"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 7.65 .
+
+res:004078 a schema1:City,
+        ex:City ;
+    rdfs:label "Cuneo"@it ;
+    schema1:latitude 44.383333333 ;
+    schema1:longitude 7.55 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5968> ;
+    ex:greenDensity 1.5 ;
+    ex:istatCode "004078"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.1 ;
+    ex:uvMax 8.4 .
+
+res:005005 a schema1:City,
+        ex:City ;
+    rdfs:label "Asti"@it ;
+    schema1:latitude 44.9 ;
+    schema1:longitude 8.206944444 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6122> ;
+    ex:greenDensity 1.4 ;
+    ex:istatCode "005005"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.45 ;
+    ex:uvMax 8.2 .
+
+res:006003 a schema1:City,
+        ex:City ;
+    rdfs:label "Alessandria"@it ;
+    schema1:latitude 44.913330555 ;
+    schema1:longitude 8.62 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6088> ;
+    ex:greenDensity 1.3 ;
+    ex:istatCode "006003"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.65 ;
+    ex:uvMax 8.55 .
+
+res:007003 a schema1:City,
+        ex:City ;
+    rdfs:label "Aosta"@it ;
+    schema1:latitude 45.737222222 ;
+    schema1:longitude 7.320555555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3367> ;
+    ex:greenDensity 3.0 ;
+    ex:istatCode "007003"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.5 ;
+    ex:uvMax 9.95 .
+
+res:008031 a schema1:City,
+        ex:City ;
+    rdfs:label "Imperia"@it ;
+    schema1:latitude 43.886466666 ;
+    schema1:longitude 8.029652777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13318> ;
+    ex:greenDensity 0.6 ;
+    ex:istatCode "008031"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.05 ;
+    ex:uvMax 8.9 .
+
+res:009056 a schema1:City,
+        ex:City ;
+    rdfs:label "Savona"@it ;
+    schema1:latitude 44.308055555 ;
+    schema1:longitude 8.481111111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13320> ;
+    ex:greenDensity 0.5 ;
+    ex:istatCode "009056"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.6 ;
+    ex:uvMax 8.35 .
+
+res:010025 a schema1:City,
+        ex:City ;
+    rdfs:label "Genova"@it ;
+    schema1:latitude 44.407222222 ;
+    schema1:longitude 8.933888888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1449> ;
+    ex:greenDensity 5.7 ;
+    ex:istatCode "010025"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.65 ;
+    ex:uvMax 8.6 .
+
+res:011015 a schema1:City,
+        ex:City ;
+    rdfs:label "La Spezia"@it ;
+    schema1:latitude 44.108044444 ;
+    schema1:longitude 9.828880555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8611> ;
+    ex:greenDensity 2.4 ;
+    ex:istatCode "011015"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.95 ;
+    ex:uvMax 8.75 .
+
+res:012133 a schema1:City,
+        ex:City ;
+    rdfs:label "Varese"@it ;
+    schema1:latitude 45.816666666 ;
+    schema1:longitude 8.833333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6285> ;
+    ex:greenDensity 2.9 ;
+    ex:istatCode "012133"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.6 ;
+    ex:uvMax 7.9 .
+
+res:013075 a schema1:City,
+        ex:City ;
+    rdfs:label "Como"@it ;
+    schema1:latitude 45.81025 ;
+    schema1:longitude 9.086138888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1308> ;
+    ex:greenDensity 4.7 ;
+    ex:istatCode "013075"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.6 ;
+    ex:uvMax 7.95 .
+
+res:014061 a schema1:City,
+        ex:City ;
+    rdfs:label "Sondrio"@it ;
+    schema1:latitude 46.169719444 ;
+    schema1:longitude 9.87 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6274> ;
+    ex:greenDensity 30.8 ;
+    ex:istatCode "014061"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.95 ;
+    ex:uvMax 8.25 .
+
+res:015146 a schema1:City,
+        ex:City ;
+    rdfs:label "Milano"@it ;
+    schema1:latitude 45.466944444 ;
+    schema1:longitude 9.19 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q490> ;
+    ex:greenDensity 14.3 ;
+    ex:istatCode "015146"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 7.7 .
+
+res:016024 a schema1:City,
+        ex:City ;
+    rdfs:label "Bergamo"@it ;
+    schema1:latitude 45.695 ;
+    schema1:longitude 9.67 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q628> ;
+    ex:greenDensity 7.7 ;
+    ex:istatCode "016024"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 7.95 .
+
+res:017029 a schema1:City,
+        ex:City ;
+    rdfs:label "Brescia"@it ;
+    schema1:latitude 45.538888888 ;
+    schema1:longitude 10.220280555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6221> ;
+    ex:greenDensity 5.7 ;
+    ex:istatCode "017029"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.4 ;
+    ex:uvMax 8.25 .
+
+res:018110 a schema1:City,
+        ex:City ;
+    rdfs:label "Pavia"@it ;
+    schema1:latitude 45.185280555 ;
+    schema1:longitude 9.155 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6259> ;
+    ex:greenDensity 2.8 ;
+    ex:istatCode "018110"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.15 ;
+    ex:uvMax 7.95 .
+
+res:019036 a schema1:City,
+        ex:City ;
+    rdfs:label "Cremona"@it ;
+    schema1:latitude 45.133333333 ;
+    schema1:longitude 10.024722222 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6231> ;
+    ex:greenDensity 3.3 ;
+    ex:istatCode "019036"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.1 ;
+    ex:uvMax 8.1 .
+
+res:020030 a schema1:City,
+        ex:City ;
+    rdfs:label "Mantova"@it ;
+    schema1:latitude 45.156388888 ;
+    schema1:longitude 10.791111111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6247> ;
+    ex:greenDensity 3.1 ;
+    ex:istatCode "020030"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.2 ;
+    ex:uvMax 8.15 .
+
+res:021008 a schema1:City,
+        ex:City ;
+    rdfs:label "Bolzano/Bozen"@it ;
+    schema1:latitude 46.498113 ;
+    schema1:longitude 11.35478 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6526> ;
+    ex:greenDensity 46.5 ;
+    ex:istatCode "021008"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.0 ;
+    ex:uvMax 8.2 .
+
+res:022205 a schema1:City,
+        ex:City ;
+    rdfs:label "Trento"@it ;
+    schema1:latitude 46.06666667 ;
+    schema1:longitude 11.11666667 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3376> ;
+    ex:greenDensity 30.1 ;
+    ex:istatCode "022205"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.85 ;
+    ex:uvMax 8.3 .
+
+res:023091 a schema1:City,
+        ex:City ;
+    rdfs:label "Verona"@it ;
+    schema1:latitude 45.438611111 ;
+    schema1:longitude 10.992777777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2028> ;
+    ex:greenDensity 3.7 ;
+    ex:istatCode "023091"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.45 ;
+    ex:uvMax 8.35 .
+
+res:024116 a schema1:City,
+        ex:City ;
+    rdfs:label "Vicenza"@it ;
+    schema1:latitude 45.55 ;
+    schema1:longitude 11.55 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6537> ;
+    ex:greenDensity 3.8 ;
+    ex:istatCode "024116"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.4 ;
+    ex:uvMax 8.4 .
+
+res:025006 a schema1:City,
+        ex:City ;
+    rdfs:label "Belluno"@it ;
+    schema1:latitude 46.140830555 ;
+    schema1:longitude 12.215561111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6558> ;
+    ex:greenDensity 0.6 ;
+    ex:istatCode "025006"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.55 ;
+    ex:uvMax 8.2 .
+
+res:026086 a schema1:City,
+        ex:City ;
+    rdfs:label "Treviso"@it ;
+    schema1:latitude 45.665833333 ;
+    schema1:longitude 12.245555555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5475> ;
+    ex:greenDensity 3.4 ;
+    ex:istatCode "026086"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 8.25 .
+
+res:027042 a schema1:City,
+        ex:City ;
+    rdfs:label "Venezia"@it ;
+    schema1:latitude 45.439722222 ;
+    schema1:longitude 12.331944444 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q641> ;
+    ex:greenDensity 2.9 ;
+    ex:istatCode "027042"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 8.25 .
+
+res:028060 a schema1:City,
+        ex:City ;
+    rdfs:label "Padova"@it ;
+    schema1:latitude 45.407777777 ;
+    schema1:longitude 11.873333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q617> ;
+    ex:greenDensity 10.1 ;
+    ex:istatCode "028060"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.3 ;
+    ex:uvMax 8.3 .
+
+res:029041 a schema1:City,
+        ex:City ;
+    rdfs:label "Rovigo"@it ;
+    schema1:latitude 45.0809 ;
+    schema1:longitude 11.794 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6572> ;
+    ex:greenDensity 1.6 ;
+    ex:istatCode "029041"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 8.0 .
+
+res:030129 a schema1:City,
+        ex:City ;
+    rdfs:label "Udine"@it ;
+    schema1:latitude 46.066666666 ;
+    schema1:longitude 13.233333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2790> ;
+    ex:greenDensity 3.8 ;
+    ex:istatCode "030129"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.45 ;
+    ex:uvMax 8.3 .
+
+res:031007 a schema1:City,
+        ex:City ;
+    rdfs:label "Gorizia"@it ;
+    schema1:latitude 45.9352 ;
+    schema1:longitude 13.6193 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6596> ;
+    ex:greenDensity 11.4 ;
+    ex:istatCode "031007"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.5 ;
+    ex:uvMax 8.4 .
+
+res:032006 a schema1:City,
+        ex:City ;
+    rdfs:label "Trieste"@it ;
+    schema1:latitude 45.650277777 ;
+    schema1:longitude 13.770277777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q546> ;
+    ex:greenDensity 14.7 ;
+    ex:istatCode "032006"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.45 ;
+    ex:uvMax 8.45 .
+
+res:033032 a schema1:City,
+        ex:City ;
+    rdfs:label "Piacenza"@it ;
+    schema1:latitude 45.05 ;
+    schema1:longitude 9.7 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13329> ;
+    ex:greenDensity 2.5 ;
+    ex:istatCode "033032"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.15 ;
+    ex:uvMax 8.0 .
+
+res:034027 a schema1:City,
+        ex:City ;
+    rdfs:label "Parma"@it ;
+    schema1:latitude 44.801472222 ;
+    schema1:longitude 10.328 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2683> ;
+    ex:greenDensity 7.1 ;
+    ex:istatCode "034027"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.4 ;
+    ex:uvMax 8.35 .
+
+res:035033 a schema1:City,
+        ex:City ;
+    rdfs:label "'Reggio nell\"'Emilia'"@it ;
+    schema1:latitude 44.7 ;
+    schema1:longitude 10.633333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13360> ;
+    ex:greenDensity 4.3 ;
+    ex:istatCode "035033"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.3 ;
+    ex:uvMax 8.2 .
+
+res:036023 a schema1:City,
+        ex:City ;
+    rdfs:label "Modena"@it ;
+    schema1:latitude 44.64582 ;
+    schema1:longitude 10.92572 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q279> ;
+    ex:greenDensity 7.6 ;
+    ex:istatCode "036023"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.3 ;
+    ex:uvMax 8.2 .
+
+res:037006 a schema1:City,
+        ex:City ;
+    rdfs:label "Bologna"@it ;
+    schema1:latitude 44.493888888 ;
+    schema1:longitude 11.342777777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1891> ;
+    ex:greenDensity 6.1 ;
+    ex:istatCode "037006"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.75 ;
+    ex:uvMax 8.65 .
+
+res:038008 a schema1:City,
+        ex:City ;
+    rdfs:label "Ferrara"@it ;
+    schema1:latitude 44.839166666 ;
+    schema1:longitude 11.6175 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13362> ;
+    ex:greenDensity 2.1 ;
+    ex:istatCode "038008"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.45 ;
+    ex:uvMax 8.2 .
+
+res:039014 a schema1:City,
+        ex:City ;
+    rdfs:label "Ravenna"@it ;
+    schema1:latitude 44.416111111 ;
+    schema1:longitude 12.201666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13364> ;
+    ex:greenDensity 1.2 ;
+    ex:istatCode "039014"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.65 ;
+    ex:uvMax 8.65 .
+
+res:040007 a schema1:City,
+        ex:City ;
+    rdfs:label "Cesena"@it ;
+    schema1:latitude 44.133333333 ;
+    schema1:longitude 12.233333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6662> ;
+    ex:greenDensity 1.6 ;
+    ex:istatCode "040007"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.05 ;
+    ex:uvMax 9.0 .
+
+res:040012 a schema1:City,
+        ex:City ;
+    rdfs:label "Forlì"@it ;
+    schema1:latitude 44.222777777 ;
+    schema1:longitude 12.041388888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13367> ;
+    ex:greenDensity 1.3 ;
+    ex:istatCode "040012"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.7 ;
+    ex:uvMax 8.65 .
+
+res:041044 a schema1:City,
+        ex:City ;
+    rdfs:label "Pesaro"@it ;
+    schema1:latitude 43.91015 ;
+    schema1:longitude 12.9133 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13134> ;
+    ex:greenDensity 1.7 ;
+    ex:istatCode "041044"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.9 ;
+    ex:uvMax 8.85 .
+
+res:042002 a schema1:City,
+        ex:City ;
+    rdfs:label "Ancona"@it ;
+    schema1:latitude 43.616666666 ;
+    schema1:longitude 13.516666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3415> ;
+    ex:greenDensity 3.8 ;
+    ex:istatCode "042002"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.1 ;
+    ex:uvMax 9.05 .
+
+res:043023 a schema1:City,
+        ex:City ;
+    rdfs:label "Macerata"@it ;
+    schema1:latitude 43.300277777 ;
+    schema1:longitude 13.453333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13135> ;
+    ex:greenDensity 0.9 ;
+    ex:istatCode "043023"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.35 ;
+    ex:uvMax 9.25 .
+
+res:044007 a schema1:City,
+        ex:City ;
+    rdfs:label "Ascoli Piceno"@it ;
+    schema1:latitude 42.854722222 ;
+    schema1:longitude 13.575277777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6624> ;
+    ex:greenDensity 0.4 ;
+    ex:istatCode "044007"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.7 ;
+    ex:uvMax 9.65 .
+
+res:045010 a schema1:City,
+        ex:City ;
+    rdfs:label "Massa"@it ;
+    schema1:latitude 44.033333333 ;
+    schema1:longitude 10.133333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13370> ;
+    ex:greenDensity 1.3 ;
+    ex:istatCode "045010"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.95 ;
+    ex:uvMax 8.75 .
+
+res:046017 a schema1:City,
+        ex:City ;
+    rdfs:label "Lucca"@it ;
+    schema1:latitude 43.85 ;
+    schema1:longitude 10.516666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13373> ;
+    ex:greenDensity 0.9 ;
+    ex:istatCode "046017"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.15 ;
+    ex:uvMax 9.1 .
+
+res:047014 a schema1:City,
+        ex:City ;
+    rdfs:label "Pistoia"@it ;
+    schema1:latitude 43.933333333 ;
+    schema1:longitude 10.916666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13376> ;
+    ex:greenDensity 0.8 ;
+    ex:istatCode "047014"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.25 ;
+    ex:uvMax 9.25 .
+
+res:048017 a schema1:City,
+        ex:City ;
+    rdfs:label "Firenze"@it ;
+    schema1:latitude 43.771388888 ;
+    schema1:longitude 11.254166666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2044> ;
+    ex:greenDensity 9.4 ;
+    ex:istatCode "048017"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.15 ;
+    ex:uvMax 9.15 .
+
+res:049009 a schema1:City,
+        ex:City ;
+    rdfs:label "Livorno"@it ;
+    schema1:latitude 43.55 ;
+    schema1:longitude 10.316666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6761> ;
+    ex:greenDensity 2.2 ;
+    ex:istatCode "049009"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.95 ;
+    ex:uvMax 8.9 .
+
+res:050026 a schema1:City,
+        ex:City ;
+    rdfs:label "Pisa"@it ;
+    schema1:latitude 43.716666666 ;
+    schema1:longitude 10.4 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13375> ;
+    ex:greenDensity 1.1 ;
+    ex:istatCode "050026"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.95 ;
+    ex:uvMax 8.9 .
+
+res:051002 a schema1:City,
+        ex:City ;
+    rdfs:label "Arezzo"@it ;
+    schema1:latitude 43.463055555 ;
+    schema1:longitude 11.878055555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13378> ;
+    ex:greenDensity 0.8 ;
+    ex:istatCode "051002"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.4 ;
+    ex:uvMax 9.35 .
+
+res:052032 a schema1:City,
+        ex:City ;
+    rdfs:label "Siena"@it ;
+    schema1:latitude 43.318333333 ;
+    schema1:longitude 11.331388888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2751> ;
+    ex:greenDensity 1.5 ;
+    ex:istatCode "052032"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.2 ;
+    ex:uvMax 9.2 .
+
+res:053011 a schema1:City,
+        ex:City ;
+    rdfs:label "Grosseto"@it ;
+    schema1:latitude 42.772222222 ;
+    schema1:longitude 11.108888888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6716> ;
+    ex:greenDensity 0.9 ;
+    ex:istatCode "053011"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.3 ;
+    ex:uvMax 9.25 .
+
+res:054039 a schema1:City,
+        ex:City ;
+    rdfs:label "Perugia"@it ;
+    schema1:latitude 43.11191816 ;
+    schema1:longitude 12.38854847 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3437> ;
+    ex:greenDensity 2.3 ;
+    ex:istatCode "054039"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.4 ;
+    ex:uvMax 9.4 .
+
+res:055032 a schema1:City,
+        ex:City ;
+    rdfs:label "Terni"@it ;
+    schema1:latitude 42.56077083 ;
+    schema1:longitude 12.6467816 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8621> ;
+    ex:greenDensity 7.9 ;
+    ex:istatCode "055032"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.85 ;
+    ex:uvMax 9.8 .
+
+res:056059 a schema1:City,
+        ex:City ;
+    rdfs:label "Viterbo"@it ;
+    schema1:latitude 42.418611111 ;
+    schema1:longitude 12.104166666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13395> ;
+    ex:greenDensity 0.2 ;
+    ex:istatCode "056059"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.5 ;
+    ex:uvMax 9.5 .
+
+res:057059 a schema1:City,
+        ex:City ;
+    rdfs:label "Rieti"@it ;
+    schema1:latitude 42.40443 ;
+    schema1:longitude 12.856702 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13396> ;
+    ex:greenDensity 7.6 ;
+    ex:istatCode "057059"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.85 ;
+    ex:uvMax 9.8 .
+
+res:058091 a schema1:City,
+        ex:City ;
+    rdfs:label "Roma"@it ;
+    schema1:latitude 41.893055555 ;
+    schema1:longitude 12.482777777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q220> ;
+    ex:greenDensity 3.7 ;
+    ex:istatCode "058091"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.5 ;
+    ex:uvMax 9.5 .
+
+res:059011 a schema1:City,
+        ex:City ;
+    rdfs:label "Latina"@it ;
+    schema1:latitude 41.467222222 ;
+    schema1:longitude 12.903611111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13410> ;
+    ex:greenDensity 0.8 ;
+    ex:istatCode "059011"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.7 ;
+    ex:uvMax 9.65 .
+
+res:060038 a schema1:City,
+        ex:City ;
+    rdfs:label "Frosinone"@it ;
+    schema1:latitude 41.633333333 ;
+    schema1:longitude 13.35 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13413> ;
+    ex:greenDensity 3.0 ;
+    ex:istatCode "060038"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.9 ;
+    ex:uvMax 9.85 .
+
+res:061022 a schema1:City,
+        ex:City ;
+    rdfs:label "Caserta"@it ;
+    schema1:latitude 41.066667 ;
+    schema1:longitude 14.333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1906> ;
+    ex:greenDensity 2.5 ;
+    ex:istatCode "061022"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.75 ;
+    ex:uvMax 9.75 .
+
+res:062008 a schema1:City,
+        ex:City ;
+    rdfs:label "Benevento"@it ;
+    schema1:latitude 41.133333333 ;
+    schema1:longitude 14.783333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13437> ;
+    ex:greenDensity 1.1 ;
+    ex:istatCode "062008"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.95 ;
+    ex:uvMax 9.95 .
+
+res:063049 a schema1:City,
+        ex:City ;
+    rdfs:label "Napoli"@it ;
+    schema1:latitude 40.835833333 ;
+    schema1:longitude 14.248611111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2634> ;
+    ex:greenDensity 10.8 ;
+    ex:istatCode "063049"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.55 ;
+    ex:uvMax 9.55 .
+
+res:064008 a schema1:City,
+        ex:City ;
+    rdfs:label "Avellino"@it ;
+    schema1:latitude 40.915277777 ;
+    schema1:longitude 14.789722222 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13433> ;
+    ex:greenDensity 5.4 ;
+    ex:istatCode "064008"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.75 ;
+    ex:uvMax 9.75 .
+
+res:065116 a schema1:City,
+        ex:City ;
+    rdfs:label "Salerno"@it ;
+    schema1:latitude 40.680555555 ;
+    schema1:longitude 14.759444444 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1083> ;
+    ex:greenDensity 4.1 ;
+    ex:istatCode "065116"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.75 ;
+    ex:uvMax 9.75 .
+
+res:066049 a schema1:City,
+        ex:City ;
+    rdfs:label "'L\"'Aquila'"@it ;
+    schema1:latitude 42.354008333 ;
+    schema1:longitude 13.391991666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3476> ;
+    ex:greenDensity 0.5 ;
+    ex:istatCode "066049"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.3 ;
+    ex:uvMax 10.15 .
+
+res:067041 a schema1:City,
+        ex:City ;
+    rdfs:label "Teramo"@it ;
+    schema1:latitude 42.658852777 ;
+    schema1:longitude 13.703911111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13137> ;
+    ex:greenDensity 0.6 ;
+    ex:istatCode "067041"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.7 ;
+    ex:uvMax 9.65 .
+
+res:068028 a schema1:City,
+        ex:City ;
+    rdfs:label "Pescara"@it ;
+    schema1:latitude 42.464277777 ;
+    schema1:longitude 14.214188888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2704> ;
+    ex:greenDensity 13.6 ;
+    ex:istatCode "068028"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.45 ;
+    ex:uvMax 8.9 .
+
+res:069022 a schema1:City,
+        ex:City ;
+    rdfs:label "Chieti"@it ;
+    schema1:latitude 42.351113888 ;
+    schema1:longitude 14.167427777 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13138> ;
+    ex:greenDensity 0.7 ;
+    ex:istatCode "069022"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.65 ;
+    ex:uvMax 9.3 .
+
+res:070006 a schema1:City,
+        ex:City ;
+    rdfs:label "Campobasso"@it ;
+    schema1:latitude 41.561 ;
+    schema1:longitude 14.6684 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3497> ;
+    ex:greenDensity 1.0 ;
+    ex:istatCode "070006"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.95 ;
+    ex:uvMax 9.9 .
+
+res:071024 a schema1:City,
+        ex:City ;
+    rdfs:label "Foggia"@it ;
+    schema1:latitude 41.45845 ;
+    schema1:longitude 15.55188 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13464> ;
+    ex:greenDensity 0.3 ;
+    ex:istatCode "071024"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.65 ;
+    ex:uvMax 9.65 .
+
+res:072006 a schema1:City,
+        ex:City ;
+    rdfs:label "Bari"@it ;
+    schema1:latitude 41.125277777 ;
+    schema1:longitude 16.866666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3519> ;
+    ex:greenDensity 2.6 ;
+    ex:istatCode "072006"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.45 ;
+    ex:uvMax 9.45 .
+
+res:073027 a schema1:City,
+        ex:City ;
+    rdfs:label "Taranto"@it ;
+    schema1:latitude 40.471111111 ;
+    schema1:longitude 17.243055555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13498> ;
+    ex:greenDensity 1.5 ;
+    ex:istatCode "073027"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.65 ;
+    ex:uvMax 9.65 .
+
+res:074001 a schema1:City,
+        ex:City ;
+    rdfs:label "Brindisi"@it ;
+    schema1:latitude 40.638333333 ;
+    schema1:longitude 17.945833333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13496> ;
+    ex:greenDensity 0.3 ;
+    ex:istatCode "074001"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.55 ;
+    ex:uvMax 9.55 .
+
+res:075035 a schema1:City,
+        ex:City ;
+    rdfs:label "Lecce"@it ;
+    schema1:latitude 40.352011111 ;
+    schema1:longitude 18.169138888 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13386> ;
+    ex:greenDensity 0.4 ;
+    ex:istatCode "075035"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.6 ;
+    ex:uvMax 9.6 .
+
+res:076063 a schema1:City,
+        ex:City ;
+    rdfs:label "Potenza"@it ;
+    schema1:latitude 40.633333333 ;
+    schema1:longitude 15.8 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3543> ;
+    ex:greenDensity 6.0 ;
+    ex:istatCode "076063"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.1 ;
+    ex:uvMax 9.7 .
+
+res:077014 a schema1:City,
+        ex:City ;
+    rdfs:label "Matera"@it ;
+    schema1:latitude 40.666666666 ;
+    schema1:longitude 16.6 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13616> ;
+    ex:greenDensity 0.3 ;
+    ex:istatCode "077014"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.75 ;
+    ex:uvMax 9.75 .
+
+res:078045 a schema1:City,
+        ex:City ;
+    rdfs:label "Cosenza"@it ;
+    schema1:latitude 39.3 ;
+    schema1:longitude 16.25 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13619> ;
+    ex:greenDensity 6.5 ;
+    ex:istatCode "078045"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.3 ;
+    ex:uvMax 10.25 .
+
+res:079023 a schema1:City,
+        ex:City ;
+    rdfs:label "Catanzaro"@it ;
+    schema1:latitude 38.91 ;
+    schema1:longitude 16.5875 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3883> ;
+    ex:greenDensity 4.5 ;
+    ex:istatCode "079023"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.1 ;
+    ex:uvMax 10.1 .
+
+res:080063 a schema1:City,
+        ex:City ;
+    rdfs:label "Reggio di Calabria"@it ;
+    schema1:latitude 38.114438888 ;
+    schema1:longitude 15.65 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8471> ;
+    ex:greenDensity 2.7 ;
+    ex:istatCode "080063"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.15 ;
+    ex:uvMax 10.15 .
+
+res:081021 a schema1:City,
+        ex:City ;
+    rdfs:label "Trapani"@it ;
+    schema1:latitude 38.0175 ;
+    schema1:longitude 12.515 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13664> ;
+    ex:greenDensity 0.2 ;
+    ex:istatCode "081021"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.85 ;
+    ex:uvMax 9.85 .
+
+res:082053 a schema1:City,
+        ex:City ;
+    rdfs:label "Palermo"@it ;
+    schema1:latitude 38.115658055 ;
+    schema1:longitude 13.361261944 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2656> ;
+    ex:greenDensity 4.8 ;
+    ex:istatCode "082053"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.2 ;
+    ex:uvMax 10.2 .
+
+res:083048 a schema1:City,
+        ex:City ;
+    rdfs:label "Messina"@it ;
+    schema1:latitude 38.193611111 ;
+    schema1:longitude 15.554166666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13666> ;
+    ex:greenDensity 0.7 ;
+    ex:istatCode "083048"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.15 ;
+    ex:uvMax 10.15 .
+
+res:084001 a schema1:City,
+        ex:City ;
+    rdfs:label "Agrigento"@it ;
+    schema1:latitude 37.31065 ;
+    schema1:longitude 13.57661 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13678> ;
+    ex:greenDensity 2.3 ;
+    ex:istatCode "084001"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.1 ;
+    ex:uvMax 9.95 .
+
+res:085004 a schema1:City,
+        ex:City ;
+    rdfs:label "Caltanissetta"@it ;
+    schema1:latitude 37.491472222 ;
+    schema1:longitude 14.062444444 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13680> ;
+    ex:greenDensity 0.1 ;
+    ex:istatCode "085004"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.45 ;
+    ex:uvMax 10.45 .
+
+res:086009 a schema1:City,
+        ex:City ;
+    rdfs:label "Enna"@it ;
+    schema1:latitude 37.566666666 ;
+    schema1:longitude 14.266666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13687> ;
+    ex:greenDensity 0.1 ;
+    ex:istatCode "086009"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.6 ;
+    ex:uvMax 10.6 .
+
+res:087015 a schema1:City,
+        ex:City ;
+    rdfs:label "Catania"@it ;
+    schema1:latitude 37.502669444 ;
+    schema1:longitude 15.087269444 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1903> ;
+    ex:greenDensity 4.4 ;
+    ex:istatCode "087015"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.25 ;
+    ex:uvMax 10.25 .
+
+res:088009 a schema1:City,
+        ex:City ;
+    rdfs:label "Ragusa"@it ;
+    schema1:latitude 36.925 ;
+    schema1:longitude 14.730555555 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13674> ;
+    ex:greenDensity 0.4 ;
+    ex:istatCode "088009"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.2 ;
+    ex:uvMax 10.1 .
+
+res:089017 a schema1:City,
+        ex:City ;
+    rdfs:label "Siracusa"@it ;
+    schema1:latitude 37.069166666 ;
+    schema1:longitude 15.2875 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13670> ;
+    ex:greenDensity 0.5 ;
+    ex:istatCode "089017"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.2 ;
+    ex:uvMax 10.2 .
+
+res:090064 a schema1:City,
+        ex:City ;
+    rdfs:label "Sassari"@it ;
+    schema1:latitude 40.726666666 ;
+    schema1:longitude 8.559166666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13629> ;
+    ex:greenDensity 0.4 ;
+    ex:istatCode "090064"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.6 ;
+    ex:uvMax 9.6 .
+
+res:091051 a schema1:City,
+        ex:City ;
+    rdfs:label "Nuoro"@it ;
+    schema1:latitude 40.3200621 ;
+    schema1:longitude 9.3280792 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13649> ;
+    ex:greenDensity 0.6 ;
+    ex:istatCode "091051"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.05 ;
+    ex:uvMax 9.9 .
+
+res:092009 a schema1:City,
+        ex:City ;
+    rdfs:label "Cagliari"@it ;
+    schema1:latitude 39.214886 ;
+    schema1:longitude 9.109522 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1897> ;
+    ex:greenDensity 9.6 ;
+    ex:istatCode "092009"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.75 ;
+    ex:uvMax 9.75 .
+
+res:093033 a schema1:City,
+        ex:City ;
+    rdfs:label "Pordenone"@it ;
+    schema1:latitude 45.9626 ;
+    schema1:longitude 12.6563 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6606> ;
+    ex:greenDensity 6.0 ;
+    ex:istatCode "093033"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.4 ;
+    ex:uvMax 8.3 .
+
+res:094023 a schema1:City,
+        ex:City ;
+    rdfs:label "Isernia"@it ;
+    schema1:latitude 41.602777777 ;
+    schema1:longitude 14.239722222 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13450> ;
+    ex:greenDensity 30.6 ;
+    ex:istatCode "094023"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 10.1 ;
+    ex:uvMax 10.05 .
+
+res:095038 a schema1:City,
+        ex:City ;
+    rdfs:label "Oristano"@it ;
+    schema1:latitude 39.9058188 ;
+    schema1:longitude 8.591609 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13652> ;
+    ex:greenDensity 2.1 ;
+    ex:istatCode "095038"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.65 ;
+    ex:uvMax 9.65 .
+
+res:096004 a schema1:City,
+        ex:City ;
+    rdfs:label "Biella"@it ;
+    schema1:latitude 45.566388888 ;
+    schema1:longitude 8.053333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18021> ;
+    ex:greenDensity 1.9 ;
+    ex:istatCode "096004"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.75 ;
+    ex:uvMax 8.0 .
+
+res:097042 a schema1:City,
+        ex:City ;
+    rdfs:label "Lecco"@it ;
+    schema1:latitude 45.85334 ;
+    schema1:longitude 9.39048 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6237> ;
+    ex:greenDensity 1.6 ;
+    ex:istatCode "097042"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.6 ;
+    ex:uvMax 7.95 .
+
+res:098031 a schema1:City,
+        ex:City ;
+    rdfs:label "Lodi"@it ;
+    schema1:latitude 45.316666666 ;
+    schema1:longitude 9.5 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6244> ;
+    ex:greenDensity 6.2 ;
+    ex:istatCode "098031"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.15 ;
+    ex:uvMax 8.0 .
+
+res:099014 a schema1:City,
+        ex:City ;
+    rdfs:label "Rimini"@it ;
+    schema1:latitude 44.059444444 ;
+    schema1:longitude 12.568333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13369> ;
+    ex:greenDensity 2.4 ;
+    ex:istatCode "099014"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.05 ;
+    ex:uvMax 9.0 .
+
+res:100005 a schema1:City,
+        ex:City ;
+    rdfs:label "Prato"@it ;
+    schema1:latitude 43.880813888 ;
+    schema1:longitude 11.096561111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13377> ;
+    ex:greenDensity 5.6 ;
+    ex:istatCode "100005"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.25 ;
+    ex:uvMax 9.25 .
+
+res:101010 a schema1:City,
+        ex:City ;
+    rdfs:label "Crotone"@it ;
+    schema1:latitude 39.083333333 ;
+    schema1:longitude 17.116666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6681> ;
+    ex:greenDensity 0.1 ;
+    ex:istatCode "101010"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.85 ;
+    ex:uvMax 9.8 .
+
+res:102047 a schema1:City,
+        ex:City ;
+    rdfs:label "Vibo Valentia"@it ;
+    schema1:latitude 38.675277777 ;
+    schema1:longitude 16.0959 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13625> ;
+    ex:greenDensity 0.9 ;
+    ex:istatCode "102047"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.9 ;
+    ex:uvMax 9.9 .
+
+res:103072 a schema1:City,
+        ex:City ;
+    rdfs:label "Verbania"@it ;
+    schema1:latitude 45.922777777 ;
+    schema1:longitude 8.551944444 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3639> ;
+    ex:greenDensity 9.1 ;
+    ex:istatCode "103072"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.85 ;
+    ex:uvMax 8.05 .
+
+res:108033 a schema1:City,
+        ex:City ;
+    rdfs:label "Monza"@it ;
+    schema1:latitude 45.583611111 ;
+    schema1:longitude 9.273611111 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6252> ;
+    ex:greenDensity 27.6 ;
+    ex:istatCode "108033"^^xsd:string ;
+    ex:riskCategoryOMS "Alto"^^xsd:string ;
+    ex:uvClearSkyMax 8.25 ;
+    ex:uvMax 7.7 .
+
+res:109006 a schema1:City,
+        ex:City ;
+    rdfs:label "Fermo"@it ;
+    schema1:latitude 43.161284 ;
+    schema1:longitude 13.718397 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13139> ;
+    ex:greenDensity 0.8 ;
+    ex:istatCode "109006"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.35 ;
+    ex:uvMax 9.25 .
+
+res:110001 a schema1:City,
+        ex:City ;
+    rdfs:label "Andria"@it ;
+    schema1:latitude 41.231666666 ;
+    schema1:longitude 16.308333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13486> ;
+    ex:greenDensity 0.2 ;
+    ex:istatCode "110001"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.55 ;
+    ex:uvMax 9.45 .
+
+res:110002 a schema1:City,
+        ex:City ;
+    rdfs:label "Barletta"@it ;
+    schema1:latitude 41.316666666 ;
+    schema1:longitude 16.283333333 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13470> ;
+    ex:greenDensity 0.2 ;
+    ex:istatCode "110002"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.55 ;
+    ex:uvMax 9.45 .
+
+res:110009 a schema1:City,
+        ex:City ;
+    rdfs:label "Trani"@it ;
+    schema1:latitude 41.266666666 ;
+    schema1:longitude 16.416666666 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13495> ;
+    ex:greenDensity 0.3 ;
+    ex:istatCode "110009"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.55 ;
+    ex:uvMax 9.45 .
+
+res:111009 a schema1:City,
+        ex:City ;
+    rdfs:label "Carbonia"@it ;
+    schema1:latitude 39.1668029 ;
+    schema1:longitude 8.5219574 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13660> ;
+    ex:greenDensity 1.6 ;
+    ex:istatCode "111009"^^xsd:string ;
+    ex:riskCategoryOMS "Molto Alto"^^xsd:string ;
+    ex:uvClearSkyMax 9.8 ;
+    ex:uvMax 9.8 .
+
+ex:City a owl:Class ;
+    rdfs:label "Capoluogo di provincia italiano"@it .
+

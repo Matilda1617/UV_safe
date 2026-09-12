@@ -1,0 +1,111 @@
+istat_code;comune;densita_verde;latitude;longitude;wikidata_uri;uv_max;uv_mean;uv_clear_sky_max;classe_rischio_oms
+001272;Torino;18.3;45.079166666;7.676111111;http://www.wikidata.org/entity/Q495;8.05;1.53;8.6;Molto Alto
+002158;Vercelli;1.8;45.32615;8.42341;http://www.wikidata.org/entity/Q5990;7.75;1.56;8.2;Alto
+003106;Novara;1.7;45.45;8.62;http://www.wikidata.org/entity/Q6046;7.65;1.53;8.25;Alto
+004078;Cuneo;1.5;44.383333333;7.55;http://www.wikidata.org/entity/Q5968;8.4;1.55;9.1;Molto Alto
+005005;Asti;1.4;44.9;8.206944444;http://www.wikidata.org/entity/Q6122;8.2;1.58;8.45;Molto Alto
+006003;Alessandria;1.3;44.913330555;8.62;http://www.wikidata.org/entity/Q6088;8.55;1.59;8.65;Molto Alto
+096004;Biella;1.9;45.566388888;8.053333333;http://www.wikidata.org/entity/Q18021;8.0;1.54;8.75;Molto Alto
+103072;Verbania;9.1;45.922777777;8.551944444;http://www.wikidata.org/entity/Q3639;8.05;1.51;8.85;Molto Alto
+007003;Aosta;3.0;45.737222222;7.320555555;http://www.wikidata.org/entity/Q3367;9.95;1.74;10.5;Molto Alto
+008031;Imperia;0.6;43.886466666;8.029652777;http://www.wikidata.org/entity/Q13318;8.9;1.66;9.05;Molto Alto
+009056;Savona;0.5;44.308055555;8.481111111;http://www.wikidata.org/entity/Q13320;8.35;1.56;8.6;Molto Alto
+010025;Genova;5.7;44.407222222;8.933888888;http://www.wikidata.org/entity/Q1449;8.6;1.64;8.65;Molto Alto
+011015;La Spezia;2.4;44.108044444;9.828880555;http://www.wikidata.org/entity/Q8611;8.75;1.82;8.95;Molto Alto
+012133;Varese;2.9;45.816666666;8.833333333;http://www.wikidata.org/entity/Q6285;7.9;1.52;8.6;Alto
+013075;Como;4.7;45.81025;9.086138888;http://www.wikidata.org/entity/Q1308;7.95;1.58;8.6;Alto
+014061;Sondrio;30.8;46.169719444;9.87;http://www.wikidata.org/entity/Q6274;8.25;1.57;8.95;Molto Alto
+015146;Milano;14.3;45.466944444;9.19;http://www.wikidata.org/entity/Q490;7.7;1.56;8.25;Alto
+016024;Bergamo;7.7;45.695;9.67;http://www.wikidata.org/entity/Q628;7.95;1.55;8.25;Alto
+017029;Brescia;5.7;45.538888888;10.220280555;http://www.wikidata.org/entity/Q6221;8.25;1.56;8.4;Molto Alto
+018110;Pavia;2.8;45.185280555;9.155;http://www.wikidata.org/entity/Q6259;7.95;1.6;8.15;Alto
+019036;Cremona;3.3;45.133333333;10.024722222;http://www.wikidata.org/entity/Q6231;8.1;1.6;8.1;Molto Alto
+020030;Mantova;3.1;45.156388888;10.791111111;http://www.wikidata.org/entity/Q6247;8.15;1.65;8.2;Molto Alto
+097042;Lecco;1.6;45.85334;9.39048;http://www.wikidata.org/entity/Q6237;7.95;1.58;8.6;Alto
+098031;Lodi;6.2;45.316666666;9.5;http://www.wikidata.org/entity/Q6244;8.0;1.58;8.15;Molto Alto
+108033;Monza;27.6;45.583611111;9.273611111;http://www.wikidata.org/entity/Q6252;7.7;1.56;8.25;Alto
+021008;Bolzano/Bozen;46.5;46.498113;11.35478;http://www.wikidata.org/entity/Q6526;8.2;1.52;9.0;Molto Alto
+022205;Trento;30.1;46.06666667;11.11666667;http://www.wikidata.org/entity/Q3376;8.3;1.47;8.85;Molto Alto
+023091;Verona;3.7;45.438611111;10.992777777;http://www.wikidata.org/entity/Q2028;8.35;1.57;8.45;Molto Alto
+024116;Vicenza;3.8;45.55;11.55;http://www.wikidata.org/entity/Q6537;8.4;1.56;8.4;Molto Alto
+025006;Belluno;0.6;46.140830555;12.215561111;http://www.wikidata.org/entity/Q6558;8.2;1.52;8.55;Molto Alto
+026086;Treviso;3.4;45.665833333;12.245555555;http://www.wikidata.org/entity/Q5475;8.25;1.66;8.25;Molto Alto
+027042;Venezia;2.9;45.439722222;12.331944444;http://www.wikidata.org/entity/Q641;8.25;1.66;8.25;Molto Alto
+028060;Padova;10.1;45.407777777;11.873333333;http://www.wikidata.org/entity/Q617;8.3;1.58;8.3;Molto Alto
+029041;Rovigo;1.6;45.0809;11.794;http://www.wikidata.org/entity/Q6572;8.0;1.64;8.25;Molto Alto
+030129;Udine;3.8;46.066666666;13.233333333;http://www.wikidata.org/entity/Q2790;8.3;1.61;8.45;Molto Alto
+031007;Gorizia;11.4;45.9352;13.6193;http://www.wikidata.org/entity/Q6596;8.4;1.62;8.5;Molto Alto
+032006;Trieste;14.7;45.650277777;13.770277777;http://www.wikidata.org/entity/Q546;8.45;1.72;8.45;Molto Alto
+093033;Pordenone;6.0;45.9626;12.6563;http://www.wikidata.org/entity/Q6606;8.3;1.58;8.4;Molto Alto
+033032;Piacenza;2.5;45.05;9.7;http://www.wikidata.org/entity/Q13329;8.0;1.58;8.15;Molto Alto
+034027;Parma;7.1;44.801472222;10.328;http://www.wikidata.org/entity/Q2683;8.35;1.66;8.4;Molto Alto
+035033;"'Reggio nell""'Emilia'";4.3;44.7;10.633333333;http://www.wikidata.org/entity/Q13360;8.2;1.67;8.3;Molto Alto
+036023;Modena;7.6;44.64582;10.92572;http://www.wikidata.org/entity/Q279;8.2;1.67;8.3;Molto Alto
+037006;Bologna;6.1;44.493888888;11.342777777;http://www.wikidata.org/entity/Q1891;8.65;1.73;8.75;Molto Alto
+038008;Ferrara;2.1;44.839166666;11.6175;http://www.wikidata.org/entity/Q13362;8.2;1.7;8.45;Molto Alto
+039014;Ravenna;1.2;44.416111111;12.201666666;http://www.wikidata.org/entity/Q13364;8.65;1.79;8.65;Molto Alto
+040007;Cesena;1.6;44.133333333;12.233333333;http://www.wikidata.org/entity/Q6662;9.0;1.79;9.05;Molto Alto
+040012;Forlì;1.3;44.222777777;12.041388888;http://www.wikidata.org/entity/Q13367;8.65;1.74;8.7;Molto Alto
+099014;Rimini;2.4;44.059444444;12.568333333;http://www.wikidata.org/entity/Q13369;9.0;1.79;9.05;Molto Alto
+045010;Massa;1.3;44.033333333;10.133333333;http://www.wikidata.org/entity/Q13370;8.75;1.82;8.95;Molto Alto
+046017;Lucca;0.9;43.85;10.516666666;http://www.wikidata.org/entity/Q13373;9.1;1.74;9.15;Molto Alto
+047014;Pistoia;0.8;43.933333333;10.916666666;http://www.wikidata.org/entity/Q13376;9.25;1.73;9.25;Molto Alto
+048017;Firenze;9.4;43.771388888;11.254166666;http://www.wikidata.org/entity/Q2044;9.15;1.84;9.15;Molto Alto
+049009;Livorno;2.2;43.55;10.316666666;http://www.wikidata.org/entity/Q6761;8.9;1.83;8.95;Molto Alto
+050026;Pisa;1.1;43.716666666;10.4;http://www.wikidata.org/entity/Q13375;8.9;1.83;8.95;Molto Alto
+051002;Arezzo;0.8;43.463055555;11.878055555;http://www.wikidata.org/entity/Q13378;9.35;1.82;9.4;Molto Alto
+052032;Siena;1.5;43.318333333;11.331388888;http://www.wikidata.org/entity/Q2751;9.2;1.86;9.2;Molto Alto
+053011;Grosseto;0.9;42.772222222;11.108888888;http://www.wikidata.org/entity/Q6716;9.25;1.91;9.3;Molto Alto
+100005;Prato;5.6;43.880813888;11.096561111;http://www.wikidata.org/entity/Q13377;9.25;1.77;9.25;Molto Alto
+054039;Perugia;2.3;43.11191816;12.38854847;http://www.wikidata.org/entity/Q3437;9.4;1.89;9.4;Molto Alto
+055032;Terni;7.9;42.56077083;12.6467816;http://www.wikidata.org/entity/Q8621;9.8;1.94;9.85;Molto Alto
+041044;Pesaro;1.7;43.91015;12.9133;http://www.wikidata.org/entity/Q13134;8.85;1.82;8.9;Molto Alto
+042002;Ancona;3.8;43.616666666;13.516666666;http://www.wikidata.org/entity/Q3415;9.05;1.85;9.1;Molto Alto
+043023;Macerata;0.9;43.300277777;13.453333333;http://www.wikidata.org/entity/Q13135;9.25;1.83;9.35;Molto Alto
+044007;Ascoli Piceno;0.4;42.854722222;13.575277777;http://www.wikidata.org/entity/Q6624;9.65;1.83;9.7;Molto Alto
+109006;Fermo;0.8;43.161284;13.718397;http://www.wikidata.org/entity/Q13139;9.25;1.83;9.35;Molto Alto
+056059;Viterbo;0.2;42.418611111;12.104166666;http://www.wikidata.org/entity/Q13395;9.5;1.92;9.5;Molto Alto
+057059;Rieti;7.6;42.40443;12.856702;http://www.wikidata.org/entity/Q13396;9.8;1.94;9.85;Molto Alto
+058091;Roma;3.7;41.893055555;12.482777777;http://www.wikidata.org/entity/Q220;9.5;1.93;9.5;Molto Alto
+059011;Latina;0.8;41.467222222;12.903611111;http://www.wikidata.org/entity/Q13410;9.65;1.96;9.7;Molto Alto
+060038;Frosinone;3.0;41.633333333;13.35;http://www.wikidata.org/entity/Q13413;9.85;1.94;9.9;Molto Alto
+066049;"'L""'Aquila'";0.5;42.354008333;13.391991666;http://www.wikidata.org/entity/Q3476;10.15;1.93;10.3;Molto Alto
+067041;Teramo;0.6;42.658852777;13.703911111;http://www.wikidata.org/entity/Q13137;9.65;1.83;9.7;Molto Alto
+068028;Pescara;13.6;42.464277777;14.214188888;http://www.wikidata.org/entity/Q2704;8.9;1.85;9.45;Molto Alto
+069022;Chieti;0.7;42.351113888;14.167427777;http://www.wikidata.org/entity/Q13138;9.3;1.83;9.65;Molto Alto
+070006;Campobasso;1.0;41.561;14.6684;http://www.wikidata.org/entity/Q3497;9.9;1.91;9.95;Molto Alto
+094023;Isernia;30.6;41.602777777;14.239722222;http://www.wikidata.org/entity/Q13450;10.05;1.84;10.1;Molto Alto
+061022;Caserta;2.5;41.066667;14.333333;http://www.wikidata.org/entity/Q1906;9.75;1.92;9.75;Molto Alto
+062008;Benevento;1.1;41.133333333;14.783333333;http://www.wikidata.org/entity/Q13437;9.95;1.96;9.95;Molto Alto
+063049;Napoli;10.8;40.835833333;14.248611111;http://www.wikidata.org/entity/Q2634;9.55;1.98;9.55;Molto Alto
+064008;Avellino;5.4;40.915277777;14.789722222;http://www.wikidata.org/entity/Q13433;9.75;1.98;9.75;Molto Alto
+065116;Salerno;4.1;40.680555555;14.759444444;http://www.wikidata.org/entity/Q1083;9.75;1.98;9.75;Molto Alto
+071024;Foggia;0.3;41.45845;15.55188;http://www.wikidata.org/entity/Q13464;9.65;1.97;9.65;Molto Alto
+072006;Bari;2.6;41.125277777;16.866666666;http://www.wikidata.org/entity/Q3519;9.45;2.0;9.45;Molto Alto
+073027;Taranto;1.5;40.471111111;17.243055555;http://www.wikidata.org/entity/Q13498;9.65;2.04;9.65;Molto Alto
+074001;Brindisi;0.3;40.638333333;17.945833333;http://www.wikidata.org/entity/Q13496;9.55;2.05;9.55;Molto Alto
+075035;Lecce;0.4;40.352011111;18.169138888;http://www.wikidata.org/entity/Q13386;9.6;2.05;9.6;Molto Alto
+110001;Andria;0.2;41.231666666;16.308333333;http://www.wikidata.org/entity/Q13486;9.45;1.99;9.55;Molto Alto
+110002;Barletta;0.2;41.316666666;16.283333333;http://www.wikidata.org/entity/Q13470;9.45;1.99;9.55;Molto Alto
+110009;Trani;0.3;41.266666666;16.416666666;http://www.wikidata.org/entity/Q13495;9.45;1.99;9.55;Molto Alto
+076063;Potenza;6.0;40.633333333;15.8;http://www.wikidata.org/entity/Q3543;9.7;2.01;10.1;Molto Alto
+077014;Matera;0.3;40.666666666;16.6;http://www.wikidata.org/entity/Q13616;9.75;2.01;9.75;Molto Alto
+078045;Cosenza;6.5;39.3;16.25;http://www.wikidata.org/entity/Q13619;10.25;2.03;10.3;Molto Alto
+079023;Catanzaro;4.5;38.91;16.5875;http://www.wikidata.org/entity/Q3883;10.1;2.08;10.1;Molto Alto
+080063;Reggio di Calabria;2.7;38.114438888;15.65;http://www.wikidata.org/entity/Q8471;10.15;2.1;10.15;Molto Alto
+101010;Crotone;0.1;39.083333333;17.116666666;http://www.wikidata.org/entity/Q6681;9.8;2.06;9.85;Molto Alto
+102047;Vibo Valentia;0.9;38.675277777;16.0959;http://www.wikidata.org/entity/Q13625;9.9;2.08;9.9;Molto Alto
+081021;Trapani;0.2;38.0175;12.515;http://www.wikidata.org/entity/Q13664;9.85;2.16;9.85;Molto Alto
+082053;Palermo;4.8;38.115658055;13.361261944;http://www.wikidata.org/entity/Q2656;10.2;2.14;10.2;Molto Alto
+083048;Messina;0.7;38.193611111;15.554166666;http://www.wikidata.org/entity/Q13666;10.15;2.1;10.15;Molto Alto
+084001;Agrigento;2.3;37.31065;13.57661;http://www.wikidata.org/entity/Q13678;9.95;2.15;10.1;Molto Alto
+085004;Caltanissetta;0.1;37.491472222;14.062444444;http://www.wikidata.org/entity/Q13680;10.45;2.17;10.45;Molto Alto
+086009;Enna;0.1;37.566666666;14.266666666;http://www.wikidata.org/entity/Q13687;10.6;2.15;10.6;Molto Alto
+087015;Catania;4.4;37.502669444;15.087269444;http://www.wikidata.org/entity/Q1903;10.25;2.11;10.25;Molto Alto
+088009;Ragusa;0.4;36.925;14.730555555;http://www.wikidata.org/entity/Q13674;10.1;2.18;10.2;Molto Alto
+089017;Siracusa;0.5;37.069166666;15.2875;http://www.wikidata.org/entity/Q13670;10.2;2.13;10.2;Molto Alto
+090064;Sassari;0.4;40.726666666;8.559166666;http://www.wikidata.org/entity/Q13629;9.6;2.05;9.6;Molto Alto
+092009;Cagliari;9.6;39.214886;9.109522;http://www.wikidata.org/entity/Q1897;9.75;2.1;9.75;Molto Alto
+095038;Oristano;2.1;39.9058188;8.591609;http://www.wikidata.org/entity/Q13652;9.65;2.07;9.65;Molto Alto
+091051;Nuoro;0.6;40.3200621;9.3280792;http://www.wikidata.org/entity/Q13649;9.9;2.08;10.05;Molto Alto
+111009;Carbonia;1.6;39.1668029;8.5219574;http://www.wikidata.org/entity/Q13660;9.8;2.09;9.8;Molto Alto

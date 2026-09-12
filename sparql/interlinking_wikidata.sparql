@@ -1,0 +1,13 @@
+PREFIX ex: <https://w3id.org/uvsafe/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# Estrazione delle corrispondenze semantiche 5 stelle verso Wikidata
+SELECT ?comune ?istat ?wikidataURI
+WHERE {
+    ?city a ex:City ;
+          rdfs:label ?comune ;
+          ex:istatCode ?istat ;
+          owl:sameAs ?wikidataURI .
+}
+ORDER BY ?comune

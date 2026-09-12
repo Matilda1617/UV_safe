@@ -1,0 +1,56 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix onto: <https://w3id.org/uvsafe/ontology/> .
+
+# --- METADATI DELL'ONTOLOGIA ---
+<https://w3id.org/uvsafe/ontology/> a owl:Ontology ;
+    rdfs:label "UV-Safe Ontology"@it ;
+    rdfs:comment "Ontologia per la modellazione dell'indice UV, del rischio sanitario e della copertura di verde urbano nei capoluoghi italiani."@it ;
+    owl:versionInfo "1.0" .
+
+# --- CLASSI ---
+onto:City a owl:Class ;
+    rdfs:subClassOf schema:City ;
+    rdfs:label "Comune Capoluogo"@it ;
+    rdfs:comment "Rappresenta un comune italiano capoluogo di provincia censito nei dati ISTAT sul verde urbano."@it .
+
+# --- OBJECT PROPERTIES ---
+onto:sameAsWikidata a owl:ObjectProperty ;
+    rdfs:subPropertyOf owl:sameAs ;
+    rdfs:domain onto:City ;
+    rdfs:label "Collegamento a Wikidata"@it ;
+    rdfs:comment "Puntatore all'entita geografica equivalente presente nel grafo di conoscenza Wikidata."@it .
+
+# --- DATATYPE PROPERTIES ---
+onto:istatCode a owl:DatatypeProperty ;
+    rdfs:domain onto:City ;
+    rdfs:range xsd:string ;
+    rdfs:label "Codice ISTAT"@it ;
+    rdfs:comment "Identificativo ufficiale numerico del comune a 6 cifre rilasciato da ISTAT."@it .
+
+onto:greenDensity a owl:DatatypeProperty ;
+    rdfs:domain onto:City ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "Densita di verde urbano"@it ;
+    rdfs:comment "Percentuale di superficie comunale occupata da verde urbano rispetto al totale territoriale."@it .
+
+onto:uvMax a owl:DatatypeProperty ;
+    rdfs:domain onto:City ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "Picco massimo indice UV"@it ;
+    rdfs:comment "Valore massimo estivo dell'indice UV (UVI) calcolato per la posizione geografica del comune."@it .
+
+onto:uvClearSkyMax a owl:DatatypeProperty ;
+    rdfs:domain onto:City ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "Picco UV a cielo sereno"@it ;
+    rdfs:comment "Valore massimo teorico dell'indice UV registrato in condizioni prive di copertura nuvolosa."@it .
+
+onto:riskCategoryOMS a owl:DatatypeProperty ;
+    rdfs:domain onto:City ;
+    rdfs:range xsd:string ;
+    rdfs:label "Categoria di rischio OMS"@it ;
+    rdfs:comment "Classe di allerta sanitaria standardizzata (Basso, Moderato, Alto, Molto Alto, Estremo) definita da OMS ed EPA."@it .

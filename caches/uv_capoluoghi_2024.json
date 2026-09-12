@@ -1,0 +1,552 @@
+{
+  "001272": {
+    "uv_max": 8.05,
+    "uv_mean": 1.53,
+    "uv_clear_sky_max": 8.6
+  },
+  "002158": {
+    "uv_max": 7.75,
+    "uv_mean": 1.56,
+    "uv_clear_sky_max": 8.2
+  },
+  "003106": {
+    "uv_max": 7.65,
+    "uv_mean": 1.53,
+    "uv_clear_sky_max": 8.25
+  },
+  "004078": {
+    "uv_max": 8.4,
+    "uv_mean": 1.55,
+    "uv_clear_sky_max": 9.1
+  },
+  "005005": {
+    "uv_max": 8.2,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.45
+  },
+  "006003": {
+    "uv_max": 8.55,
+    "uv_mean": 1.59,
+    "uv_clear_sky_max": 8.65
+  },
+  "096004": {
+    "uv_max": 8.0,
+    "uv_mean": 1.54,
+    "uv_clear_sky_max": 8.75
+  },
+  "103072": {
+    "uv_max": 8.05,
+    "uv_mean": 1.51,
+    "uv_clear_sky_max": 8.85
+  },
+  "007003": {
+    "uv_max": 9.95,
+    "uv_mean": 1.74,
+    "uv_clear_sky_max": 10.5
+  },
+  "008031": {
+    "uv_max": 8.9,
+    "uv_mean": 1.66,
+    "uv_clear_sky_max": 9.05
+  },
+  "009056": {
+    "uv_max": 8.35,
+    "uv_mean": 1.56,
+    "uv_clear_sky_max": 8.6
+  },
+  "010025": {
+    "uv_max": 8.6,
+    "uv_mean": 1.64,
+    "uv_clear_sky_max": 8.65
+  },
+  "011015": {
+    "uv_max": 8.75,
+    "uv_mean": 1.82,
+    "uv_clear_sky_max": 8.95
+  },
+  "012133": {
+    "uv_max": 7.9,
+    "uv_mean": 1.52,
+    "uv_clear_sky_max": 8.6
+  },
+  "013075": {
+    "uv_max": 7.95,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.6
+  },
+  "014061": {
+    "uv_max": 8.25,
+    "uv_mean": 1.57,
+    "uv_clear_sky_max": 8.95
+  },
+  "015146": {
+    "uv_max": 7.7,
+    "uv_mean": 1.56,
+    "uv_clear_sky_max": 8.25
+  },
+  "016024": {
+    "uv_max": 7.95,
+    "uv_mean": 1.55,
+    "uv_clear_sky_max": 8.25
+  },
+  "017029": {
+    "uv_max": 8.25,
+    "uv_mean": 1.56,
+    "uv_clear_sky_max": 8.4
+  },
+  "018110": {
+    "uv_max": 7.95,
+    "uv_mean": 1.6,
+    "uv_clear_sky_max": 8.15
+  },
+  "019036": {
+    "uv_max": 8.1,
+    "uv_mean": 1.6,
+    "uv_clear_sky_max": 8.1
+  },
+  "020030": {
+    "uv_max": 8.15,
+    "uv_mean": 1.65,
+    "uv_clear_sky_max": 8.2
+  },
+  "097042": {
+    "uv_max": 7.95,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.6
+  },
+  "098031": {
+    "uv_max": 8.0,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.15
+  },
+  "108033": {
+    "uv_max": 7.7,
+    "uv_mean": 1.56,
+    "uv_clear_sky_max": 8.25
+  },
+  "021008": {
+    "uv_max": 8.2,
+    "uv_mean": 1.52,
+    "uv_clear_sky_max": 9.0
+  },
+  "022205": {
+    "uv_max": 8.3,
+    "uv_mean": 1.47,
+    "uv_clear_sky_max": 8.85
+  },
+  "023091": {
+    "uv_max": 8.35,
+    "uv_mean": 1.57,
+    "uv_clear_sky_max": 8.45
+  },
+  "024116": {
+    "uv_max": 8.4,
+    "uv_mean": 1.56,
+    "uv_clear_sky_max": 8.4
+  },
+  "025006": {
+    "uv_max": 8.2,
+    "uv_mean": 1.52,
+    "uv_clear_sky_max": 8.55
+  },
+  "026086": {
+    "uv_max": 8.25,
+    "uv_mean": 1.66,
+    "uv_clear_sky_max": 8.25
+  },
+  "027042": {
+    "uv_max": 8.25,
+    "uv_mean": 1.66,
+    "uv_clear_sky_max": 8.25
+  },
+  "028060": {
+    "uv_max": 8.3,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.3
+  },
+  "029041": {
+    "uv_max": 8.0,
+    "uv_mean": 1.64,
+    "uv_clear_sky_max": 8.25
+  },
+  "030129": {
+    "uv_max": 8.3,
+    "uv_mean": 1.61,
+    "uv_clear_sky_max": 8.45
+  },
+  "031007": {
+    "uv_max": 8.4,
+    "uv_mean": 1.62,
+    "uv_clear_sky_max": 8.5
+  },
+  "032006": {
+    "uv_max": 8.45,
+    "uv_mean": 1.72,
+    "uv_clear_sky_max": 8.45
+  },
+  "093033": {
+    "uv_max": 8.3,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.4
+  },
+  "033032": {
+    "uv_max": 8.0,
+    "uv_mean": 1.58,
+    "uv_clear_sky_max": 8.15
+  },
+  "034027": {
+    "uv_max": 8.35,
+    "uv_mean": 1.66,
+    "uv_clear_sky_max": 8.4
+  },
+  "035033": {
+    "uv_max": 8.2,
+    "uv_mean": 1.67,
+    "uv_clear_sky_max": 8.3
+  },
+  "036023": {
+    "uv_max": 8.2,
+    "uv_mean": 1.67,
+    "uv_clear_sky_max": 8.3
+  },
+  "037006": {
+    "uv_max": 8.65,
+    "uv_mean": 1.73,
+    "uv_clear_sky_max": 8.75
+  },
+  "038008": {
+    "uv_max": 8.2,
+    "uv_mean": 1.7,
+    "uv_clear_sky_max": 8.45
+  },
+  "039014": {
+    "uv_max": 8.65,
+    "uv_mean": 1.79,
+    "uv_clear_sky_max": 8.65
+  },
+  "040007": {
+    "uv_max": 9.0,
+    "uv_mean": 1.79,
+    "uv_clear_sky_max": 9.05
+  },
+  "040012": {
+    "uv_max": 8.65,
+    "uv_mean": 1.74,
+    "uv_clear_sky_max": 8.7
+  },
+  "099014": {
+    "uv_max": 9.0,
+    "uv_mean": 1.79,
+    "uv_clear_sky_max": 9.05
+  },
+  "045010": {
+    "uv_max": 8.75,
+    "uv_mean": 1.82,
+    "uv_clear_sky_max": 8.95
+  },
+  "046017": {
+    "uv_max": 9.1,
+    "uv_mean": 1.74,
+    "uv_clear_sky_max": 9.15
+  },
+  "047014": {
+    "uv_max": 9.25,
+    "uv_mean": 1.73,
+    "uv_clear_sky_max": 9.25
+  },
+  "048017": {
+    "uv_max": 9.15,
+    "uv_mean": 1.84,
+    "uv_clear_sky_max": 9.15
+  },
+  "049009": {
+    "uv_max": 8.9,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 8.95
+  },
+  "050026": {
+    "uv_max": 8.9,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 8.95
+  },
+  "051002": {
+    "uv_max": 9.35,
+    "uv_mean": 1.82,
+    "uv_clear_sky_max": 9.4
+  },
+  "052032": {
+    "uv_max": 9.2,
+    "uv_mean": 1.86,
+    "uv_clear_sky_max": 9.2
+  },
+  "053011": {
+    "uv_max": 9.25,
+    "uv_mean": 1.91,
+    "uv_clear_sky_max": 9.3
+  },
+  "100005": {
+    "uv_max": 9.25,
+    "uv_mean": 1.77,
+    "uv_clear_sky_max": 9.25
+  },
+  "054039": {
+    "uv_max": 9.4,
+    "uv_mean": 1.89,
+    "uv_clear_sky_max": 9.4
+  },
+  "055032": {
+    "uv_max": 9.8,
+    "uv_mean": 1.94,
+    "uv_clear_sky_max": 9.85
+  },
+  "041044": {
+    "uv_max": 8.85,
+    "uv_mean": 1.82,
+    "uv_clear_sky_max": 8.9
+  },
+  "042002": {
+    "uv_max": 9.05,
+    "uv_mean": 1.85,
+    "uv_clear_sky_max": 9.1
+  },
+  "043023": {
+    "uv_max": 9.25,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 9.35
+  },
+  "044007": {
+    "uv_max": 9.65,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 9.7
+  },
+  "109006": {
+    "uv_max": 9.25,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 9.35
+  },
+  "056059": {
+    "uv_max": 9.5,
+    "uv_mean": 1.92,
+    "uv_clear_sky_max": 9.5
+  },
+  "057059": {
+    "uv_max": 9.8,
+    "uv_mean": 1.94,
+    "uv_clear_sky_max": 9.85
+  },
+  "058091": {
+    "uv_max": 9.5,
+    "uv_mean": 1.93,
+    "uv_clear_sky_max": 9.5
+  },
+  "059011": {
+    "uv_max": 9.65,
+    "uv_mean": 1.96,
+    "uv_clear_sky_max": 9.7
+  },
+  "060038": {
+    "uv_max": 9.85,
+    "uv_mean": 1.94,
+    "uv_clear_sky_max": 9.9
+  },
+  "066049": {
+    "uv_max": 10.15,
+    "uv_mean": 1.93,
+    "uv_clear_sky_max": 10.3
+  },
+  "067041": {
+    "uv_max": 9.65,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 9.7
+  },
+  "068028": {
+    "uv_max": 8.9,
+    "uv_mean": 1.85,
+    "uv_clear_sky_max": 9.45
+  },
+  "069022": {
+    "uv_max": 9.3,
+    "uv_mean": 1.83,
+    "uv_clear_sky_max": 9.65
+  },
+  "070006": {
+    "uv_max": 9.9,
+    "uv_mean": 1.91,
+    "uv_clear_sky_max": 9.95
+  },
+  "094023": {
+    "uv_max": 10.05,
+    "uv_mean": 1.84,
+    "uv_clear_sky_max": 10.1
+  },
+  "061022": {
+    "uv_max": 9.75,
+    "uv_mean": 1.92,
+    "uv_clear_sky_max": 9.75
+  },
+  "062008": {
+    "uv_max": 9.95,
+    "uv_mean": 1.96,
+    "uv_clear_sky_max": 9.95
+  },
+  "063049": {
+    "uv_max": 9.55,
+    "uv_mean": 1.98,
+    "uv_clear_sky_max": 9.55
+  },
+  "064008": {
+    "uv_max": 9.75,
+    "uv_mean": 1.98,
+    "uv_clear_sky_max": 9.75
+  },
+  "065116": {
+    "uv_max": 9.75,
+    "uv_mean": 1.98,
+    "uv_clear_sky_max": 9.75
+  },
+  "071024": {
+    "uv_max": 9.65,
+    "uv_mean": 1.97,
+    "uv_clear_sky_max": 9.65
+  },
+  "072006": {
+    "uv_max": 9.45,
+    "uv_mean": 2.0,
+    "uv_clear_sky_max": 9.45
+  },
+  "073027": {
+    "uv_max": 9.65,
+    "uv_mean": 2.04,
+    "uv_clear_sky_max": 9.65
+  },
+  "074001": {
+    "uv_max": 9.55,
+    "uv_mean": 2.05,
+    "uv_clear_sky_max": 9.55
+  },
+  "075035": {
+    "uv_max": 9.6,
+    "uv_mean": 2.05,
+    "uv_clear_sky_max": 9.6
+  },
+  "110001": {
+    "uv_max": 9.45,
+    "uv_mean": 1.99,
+    "uv_clear_sky_max": 9.55
+  },
+  "110002": {
+    "uv_max": 9.45,
+    "uv_mean": 1.99,
+    "uv_clear_sky_max": 9.55
+  },
+  "110009": {
+    "uv_max": 9.45,
+    "uv_mean": 1.99,
+    "uv_clear_sky_max": 9.55
+  },
+  "076063": {
+    "uv_max": 9.7,
+    "uv_mean": 2.01,
+    "uv_clear_sky_max": 10.1
+  },
+  "077014": {
+    "uv_max": 9.75,
+    "uv_mean": 2.01,
+    "uv_clear_sky_max": 9.75
+  },
+  "078045": {
+    "uv_max": 10.25,
+    "uv_mean": 2.03,
+    "uv_clear_sky_max": 10.3
+  },
+  "079023": {
+    "uv_max": 10.1,
+    "uv_mean": 2.08,
+    "uv_clear_sky_max": 10.1
+  },
+  "080063": {
+    "uv_max": 10.15,
+    "uv_mean": 2.1,
+    "uv_clear_sky_max": 10.15
+  },
+  "101010": {
+    "uv_max": 9.8,
+    "uv_mean": 2.06,
+    "uv_clear_sky_max": 9.85
+  },
+  "102047": {
+    "uv_max": 9.9,
+    "uv_mean": 2.08,
+    "uv_clear_sky_max": 9.9
+  },
+  "081021": {
+    "uv_max": 9.85,
+    "uv_mean": 2.16,
+    "uv_clear_sky_max": 9.85
+  },
+  "082053": {
+    "uv_max": 10.2,
+    "uv_mean": 2.14,
+    "uv_clear_sky_max": 10.2
+  },
+  "083048": {
+    "uv_max": 10.15,
+    "uv_mean": 2.1,
+    "uv_clear_sky_max": 10.15
+  },
+  "084001": {
+    "uv_max": 9.95,
+    "uv_mean": 2.15,
+    "uv_clear_sky_max": 10.1
+  },
+  "085004": {
+    "uv_max": 10.45,
+    "uv_mean": 2.17,
+    "uv_clear_sky_max": 10.45
+  },
+  "086009": {
+    "uv_max": 10.6,
+    "uv_mean": 2.15,
+    "uv_clear_sky_max": 10.6
+  },
+  "087015": {
+    "uv_max": 10.25,
+    "uv_mean": 2.11,
+    "uv_clear_sky_max": 10.25
+  },
+  "088009": {
+    "uv_max": 10.1,
+    "uv_mean": 2.18,
+    "uv_clear_sky_max": 10.2
+  },
+  "089017": {
+    "uv_max": 10.2,
+    "uv_mean": 2.13,
+    "uv_clear_sky_max": 10.2
+  },
+  "090064": {
+    "uv_max": 9.6,
+    "uv_mean": 2.05,
+    "uv_clear_sky_max": 9.6
+  },
+  "092009": {
+    "uv_max": 9.75,
+    "uv_mean": 2.1,
+    "uv_clear_sky_max": 9.75
+  },
+  "095038": {
+    "uv_max": 9.65,
+    "uv_mean": 2.07,
+    "uv_clear_sky_max": 9.65
+  },
+  "091051": {
+    "uv_max": 9.9,
+    "uv_mean": 2.08,
+    "uv_clear_sky_max": 10.05
+  },
+  "111009": {
+    "uv_max": 9.8,
+    "uv_mean": 2.09,
+    "uv_clear_sky_max": 9.8
+  }
+}

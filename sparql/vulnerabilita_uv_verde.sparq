@@ -1,0 +1,14 @@
+PREFIX ex: <https://w3id.org/uvsafe/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+# Comuni ad alto rischio UV (>= 8.0) e scarsa densita arborea (< 5%)
+SELECT ?comune ?uvMax ?verde ?rischio
+WHERE {
+    ?city a ex:City ;
+          rdfs:label ?comune ;
+          ex:uvMax ?uvMax ;
+          ex:greenDensity ?verde ;
+          ex:riskCategoryOMS ?rischio .
+    FILTER (?uvMax >= 8.0 && ?verde < 5.0)
+}
+ORDER BY DESC(?uvMax)
